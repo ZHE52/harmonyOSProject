@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "title",
+      "value": "斗破苍穹"
+    },
+    {
+      "name": "FoodAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "FoodAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "permisson_location",
+      "value": "尊敬的用户, 申请位置权限"
+    }
+  ]
+}

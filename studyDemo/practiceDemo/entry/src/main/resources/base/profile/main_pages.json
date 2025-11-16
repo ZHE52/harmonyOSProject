@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/routerAndNavigation/Demo04Navigation",
+    "pages/routerAndNavigation/Demo05Navigation",
+    "pages/routerAndNavigation/Demo06Navigation",
+    "pages/navigationParctice/navigationPage",
+    "pages/navigationParctice/navDmeoPage"
+  ]
+}
