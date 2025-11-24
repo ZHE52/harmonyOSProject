@@ -1,0 +1,15 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "basic": "file:../../common/basic",//为什么这里不能直接v呢，需要自己手写
+    "cart": "file:../../feature/cart",
+    "home": "file:../../feature/home",
+    "category": "file:../../feature/category",
+    "my": "file:../../feature/my"
+  }
+}
