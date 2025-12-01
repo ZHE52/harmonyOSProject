@@ -5,6 +5,8 @@
     "pages/routerAndNavigation/Demo05Navigation",
     "pages/routerAndNavigation/Demo06Navigation",
     "pages/navigationParctice/navigationPage",
-    "pages/navigationParctice/navDmeoPage"
+    "pages/navigationParctice/navDmeoPage",
+    "pages/chenYuanBianLiangPage",
+    "pages/testPage"
   ]
 }

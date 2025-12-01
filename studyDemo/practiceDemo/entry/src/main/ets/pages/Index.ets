@@ -1,10 +1,12 @@
+import { bbb } from "../component/bbb";
+
 @Entry
 @Component
 struct Index {
-  @State message: string = 'Hello World';
+  @State message: string = 'xxx';
 
   build() {
-    RelativeContainer() {
+    Column() {
       Text(this.message)
         .id('HelloWorld')
         .fontSize($r('app.float.page_text_font_size'))
@@ -16,8 +18,24 @@ struct Index {
         .onClick(() => {
           this.message = 'Welcome';
         })
+      aaa()
+        .width('100%')
+        .height(20)
+        .backgroundColor(Color.Red)
+      bbb()
+        .width('100%')
+        .height(20)
+        .backgroundColor(Color.Blue)
     }
     .height('100%')
     .width('100%')
+  }
+}
+
+
+@Component
+struct aaa {
+  build() {
+    Text('123')
   }
 }
